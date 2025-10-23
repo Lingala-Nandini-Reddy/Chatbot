@@ -1,0 +1,26 @@
+chatbot:
+A chatbot (also known as a talkbot, chatterbot, Bot, IM bot, interactive agent, or Artificial Conversational Entity) is a computer program or an artificial intelligence which conducts a conversation via auditory or textual methods.
+ 
+introduction: 
+The term "ChatterBot" was coined by Michael Mauldin in 1994 to describe conversational programs. 
+
+Background:
+In 1950, Alan Turing proposed the Turing Test as a measure of machine intelligence, The Turing Test evaluates whether a computer program can convincingly mimic a human in written conversation, then Joseph Weizenbaum developed ELIZA in 1966, an early chatbot that simulated conversation by recognizing keywords and replying with pre-programmed responses, later ELIZA created an illusion of understanding by using simple pattern-matching techniques.
+
+Development:
+Early chatbots include ELIZA (1966) and PARRY (1972), Later chatbots include A.L.I.C.E., Jabberwacky, D.U.D.E., and Racter And Some modern chatbots include functional features such as games, web search, scheduling, and personalized recommendations.
+
+AI and NLP:
+One major field in chatbot development is Natural Language Processing (NLP), Chatbots use techniques such as tokenization, stemming, lemmatization, intent recognition, entity extraction, and sentiment analysis And Advanced AI chatbots may use deep learning, sequence-to-sequence models, or transformer-based models like GPT for generating responses and Weak AI chatbots rely on rules, templates, and pattern matching, while strong AI chatbots aim to reason and learn from context.
+
+Famous Examples:
+ELIZA: Keyword-based early chatbot, PARRY: Simulated paranoid patient, A.L.I.C.E. AIML-based chatbot with pattern matching, Jabberwacky: Learned responses from user interactions, Siri, Alexa, Google Assistant: Voice-based personal assistants, ChatGPT: Large language model capable of generating human-like text.
+
+Applications:
+Chatbots are used in customer service, sales, product education, HR, healthcare, banking, travel, and entertainment. They can operate via messaging apps, web platforms, mobile apps, and smart devices. Chatbots provide 24/7 support, reduce human workload, improve response time, and offer interactive experiences. Companies like KLM, Aeroméxico, Alaska Airlines, and IBM Watson have deployed chatbots for customer engagement.
+
+Types of Chatbots:
+Rule-based chatbots: Use predefined rules and templates, AI-powered chatbots: Use machine learning to understand intent and generate responses, Voice-based chatbots: Interact using speech recognition and text-to-speech, Social media chatbots: Operate on platforms like Messenger, WhatsApp, and Slack.
+
+Future Trends:
+Chatbots are evolving to become more context-aware, personalized, and capable of multi-turn conversations, Integration with IoT, AR/VR, and business intelligence systems is increasing, Self-learning chatbots can adapt from user interactions and improve over time without manual programming, Ethical AI and privacy concerns are important for future chatbot applications.
